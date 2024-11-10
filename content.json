@@ -1,0 +1,123 @@
+[
+  {
+    "id": "001",
+    "imageUrl": "https://media.istockphoto.com/id/1150931120/pt/foto/3d-illustration-of-generic-compact-white-car-front-side-view.jpg?s=612x612&w=0&k=20&c=X5y9yhPGjjQXbljPUBr18Ui4l5qSSvHcaUz23_2-mgA=",
+    "year": "2020/2021",
+    "name": "Carro A",
+    "licence": "ABC-1234",
+    "place":{
+      "name":"ponto 1",
+      "latitude":-25.495060848145794,
+      "longitude":-49.310304960043545
+    }
+  },
+  {
+    "id": "002",
+    "imageUrl": "https://media.istockphoto.com/id/949483148/pt/foto/3d-illustration-of-generic-suv-car-side-view.jpg?s=612x612&w=0&k=20&c=Cjw9XnCQhPBQsS_5iUSj6HNSNWXeGEXXDaa83ysSqWs=",
+    "year": "2019/2020",
+    "name": "Carro B",
+    "licence": "DEF-5678",
+    "place":{
+      "name":"ponto 2",
+      "latitude":-22.9068,
+      "longitude":-43.1729
+    }
+  },
+  {
+    "id": "003",
+    "imageUrl": "https://media.istockphoto.com/id/1348055616/pt/foto/fiat-type-egea.jpg?s=612x612&w=0&k=20&c=SOvYDJGuFBOLfkGVNapjsNx-wNGRYT9kRh3l-_iQwvc=",
+    "year": "2018/2018",
+    "name": "Carro C",
+    "licence": "GHI-9012",
+    "place":{
+      "name":"ponto 3",
+      "latitude":-19.9167,
+      "longitude":-43.9345
+    }
+  },
+  {
+    "id": "004",
+    "imageUrl": "https://media.istockphoto.com/id/1307086567/pt/foto/generic-modern-suv-car-in-concrete-garage.jpg?s=612x612&w=0&k=20&c=UXzYAXoqWIimy8oMwtB3HNi09fWHLjvP7rsm_DuPP0s=",
+    "year": "2021/2021",
+    "name": "Carro D",
+    "licence": "JKL-3456",
+    "place":{
+      "name":"ponto 4",
+      "latitude":-15.7801,
+      "longitude":-47.9292
+    }
+  },
+  {
+    "id": "005",
+    "imageUrl": "https://media.istockphoto.com/id/1413048328/pt/vetorial/auto-set-flat-colorful-style-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=mI4yy6LHC-Uxd1wnXElrsFGu-cOn2JXmkPJkNVMqETI=",
+    "year": "2020/2020",
+    "name": "Carro E",
+    "licence": "MNO-7890",
+    "place":{
+      "name":"ponto 5",
+      "latitude":-12.9714,
+      "longitude":-38.5014
+    }
+  },
+  {
+    "id": "006",
+    "imageUrl": "https://media.istockphoto.com/id/1307086567/pt/foto/generic-modern-suv-car-in-concrete-garage.jpg?s=612x612&w=0&k=20&c=UXzYAXoqWIimy8oMwtB3HNi09fWHLjvP7rsm_DuPP0s=",
+    "year": "2017/2018",
+    "name": "Carro F",
+    "licence": "PQR-2345",
+    "place":{
+      "name":"ponto 6",
+      "latitude":-12.9714,
+      "longitude":-38.5014
+    }
+  },
+  {
+    "id": "007",
+    "imageUrl": "https://media.istockphoto.com/id/970028668/pt/foto/3d-illustration-of-generic-compact-red-suv.jpg?s=612x612&w=0&k=20&c=ik9ykYvRYzQUeJRy8u4DEDrwibxmzIBhElPxr00zJ-A=",
+    "year": "2019/2020",
+    "name": "Carro G",
+    "licence": "STU-6789",
+    "place":{
+      "name":"ponto 7",
+      "latitude":-1.4558,
+      "longitude":-48.4902
+    }
+  },
+  {
+    "id": "008",
+    "imageUrl": "https://media.istockphoto.com/id/1157655660/pt/foto/generic-red-suv-on-a-white-background-side-view.jpg?s=612x612&w=0&k=20&c=SwmLFK_KmRw0oQFCDscipI-N2gSj1PItzTkC69BdlpA=",
+    "year": "2022/2023",
+    "name": "Carro H",
+    "licence": "VWX-1234",
+    "place":{
+      "name":"ponto 8",
+      "latitude":-3.1190,
+      "longitude":-60.0217
+    }
+  },
+  {
+    "id": "009",
+    "imageUrl": "https://media.istockphoto.com/id/1135255668/pt/foto/blue-hatchback-car.jpg?s=612x612&w=0&k=20&c=fD4o_Vuj6PvcL9qCMGkyG1o5zglq097L8KUyc6-gAbs=",
+    "year": "2020/2021",
+    "name": "Carro I",
+    "licence": "YZA-5678",
+    "place":{
+      "name":"ponto 9",
+      "latitude":-25.4284,
+      "longitude":-49.2733
+    }
+  },
+  {
+    "id": "010",
+    "imageUrl": "https://media.istockphoto.com/id/1150425295/pt/foto/3d-illustration-of-generic-hatchback-car-perspective-view.jpg?s=612x612&w=0&k=20&c=-YM-Sl8C2cSK2NTuLjG2k4Zw2Qs8BqKngrOuBeHGyyc=",
+    "year": "2021/2022",
+    "name": "Carro J",
+    "licence": "BCD-9012",
+    "place":{
+      "name":"ponto 10",
+      "latitude":-27.5954,
+      "longitude":-48.5480
+    }
+  }
+]
+
